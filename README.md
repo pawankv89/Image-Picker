@@ -6,9 +6,10 @@ Image-Picker
 ------------
  Added Some screens here.
  
-[![](https://github.com/pawankv89/Image-Picker/blob/master/images/screen_1.PNG)]
-[![](https://github.com/pawankv89/Image-Picker/blob/master/images/screen_2.PNG)]
-[![](https://github.com/pawankv89/Image-Picker/blob/master/images/screen_3.PNG)]
+[![](https://github.com/pawankv89/Image-Picker/blob/master/images/screen_1.png)]
+[![](https://github.com/pawankv89/Image-Picker/blob/master/images/screen_2.png)]
+[![](https://github.com/pawankv89/Image-Picker/blob/master/images/screen_3.png)]
+
 
 
 ## Usage
